@@ -2,6 +2,6 @@
 
 Este repositorio solo publica los APK de prueba de RapiViaje. El código fuente es privado.
 
-**[Descargar la última versión](https://github.com/franco-valenzuela/rapiviaje-releases/releases/latest/download/RapiViaje.apk)**
+**[Descargar la última versión](https://franco-valenzuela.github.io/rapiviaje-releases/)**
 
 La app avisa sola cuando hay una versión nueva y se actualiza desde adentro.
